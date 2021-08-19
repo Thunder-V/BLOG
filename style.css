@@ -1,20 +1,51 @@
-#contact iframe
-{
+#contact iframe {
     width: 100%;
 }
-.contact_1 h3
-{
+
+.contact_1 h3 {
     display: inline;
 }
-.contact_1 a
-{
+
+.contact_1 a {
     text-shadow: none;
 }
- 
-input
-{
+
+input {
     background: grey
 }
+
 body {
-    
+    background: linear-gradient(#ff0000 38%, #00e1ff 73%);
+    text-align: center;
+}
+
+.travel_mailDiv {
+    text-align: center;
+    font: cursive;
+}
+
+.travel_mainDiv img {
+    width: 100%;
+}
+
+.travel_mainDiv hr {
+    width: 230px;
+}
+
+.travel_mainDiv h4,
+.travel_mainDiv p {
+    margin-left: 20px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
 }
