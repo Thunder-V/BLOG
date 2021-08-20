@@ -25,7 +25,7 @@ body {
 }
 
 .travel_mainDiv img {
-    width: 100%;
+    width: 50%;
 }
 
 .travel_mainDiv hr {
@@ -48,4 +48,45 @@ body {
 
 .movie_head i {
     float: right;
+}
+
+.environment_li {
+    margin-top: 13px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img {
+    border-radius: 25px;
+}
+
+.environment_li p {
+    margin-top: 10px;
+}
+
+.books {
+    cursor: pointer;
+}
+
+.book hr {
+    margin: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
 }
